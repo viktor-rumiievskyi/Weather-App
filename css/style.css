@@ -95,6 +95,10 @@ h1 {
 	font-weight: 500;
 }
 
+.current-waether .icon {
+	text-align: center;
+}
+
 .current-waether .icon img {
 	max-width: 120px;
 	margin-top: -15px;
